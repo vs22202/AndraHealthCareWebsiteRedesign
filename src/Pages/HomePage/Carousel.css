@@ -1,0 +1,23 @@
+.rec.rec-arrow {
+	border-radius: 0%;
+	background-color: white;
+}
+.rec.rec-arrow:hover:enabled,
+.rec.rec-arrow:active,
+.rec.rec-arrow:focus:enabled {
+	border-radius: 50%;
+	color: black;
+	background-color: white;
+}
+.rec.rec-dot {
+	background-color: white;
+	box-shadow: 0 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+.rec.rec-dot:hover {
+	box-shadow: 0 0 2px 3px rgba(0, 0, 0, 0.7);
+}
+.rec.rec-dot_active:active,
+.rec.rec-dot_active:focus {
+	background-color: white;
+	box-shadow: 0 0 1px 3px rgba(0, 0, 0, 1);
+}

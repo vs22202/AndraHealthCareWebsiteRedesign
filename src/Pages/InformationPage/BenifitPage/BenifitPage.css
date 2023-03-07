@@ -1,0 +1,12 @@
+.header {
+	margin-bottom: 0.5em;
+}
+.para {
+	margin-bottom: 1em;
+}
+.para ul {
+	margin-left: 2em;
+}
+.sub-btn:disabled {
+	background: gray;
+}
